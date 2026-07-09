@@ -1,0 +1,20 @@
+title: HACH Blog — 業務効率化とAI活用の実践知
+description: 営業・CS・マネジメントの業務効率化と生成AI活用の実践情報。常駐型AIスタッフ「HACH」(hach.work)が運営するブログです。
+url: "https://ismweb-ai.github.io"
+baseurl: "/hach-blog"
+lang: ja
+timezone: Asia/Tokyo
+
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+permalink: /:year/:month/:title/
+
+minima:
+  date_format: "%Y年%m月%d日"
+
+header_pages:
+  - about.md
