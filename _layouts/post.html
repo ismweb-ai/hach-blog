@@ -1,14 +1,48 @@
 ---
 layout: default
 ---
-<article class="post">
-  <header class="post-header">
-    <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y年%m月%d日" }}</time>
-    <h1 class="post-title">{{ page.title }}</h1>
-    {% if page.description %}<p class="post-desc">{{ page.description }}</p>{% endif %}
-  </header>
-  <div class="post-body">
-    {{ content }}
-  </div>
+<div class="wrap-narrow">
+  <article class="post">
+    <header class="post-header">
+      <div class="post-meta-row">
+        {% if page.category %}<span class="chip">{{ page.category }}</span>{% endif %}
+        <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y年%m月%d日" }}</time>
+        <span class="post-card-time">読了目安 約{{ content | strip_html | size | divided_by: 550 | at_least: 2 }}分</span>
+      </div>
+      <h1 class="post-title">{{ page.title }}</h1>
+      {% if page.description %}<p class="post-desc">{{ page.description }}</p>{% endif %}
+    </header>
+
+    <nav class="toc" aria-label="目次"><p class="toc-title">CONTENTS</p></nav>
+
+    <div class="post-body">
+      {{ content }}
+    </div>
+
+    <div class="post-share">
+      <span class="post-share-label">SHARE</span>
+      <a class="share-btn" href="https://x.com/intent/post?text={{ page.title | url_encode }}&url={{ page.url | absolute_url | url_encode }}" target="_blank" rel="noopener">𝕏 でシェア</a>
+      <button class="share-btn" type="button" data-copy-link>リンクをコピー</button>
+    </div>
+  </article>
+
+  {% if site.related_posts.size > 0 %}
+  <section class="related">
+    <p class="section-label">RELATED</p>
+    <div class="related-grid">
+      {% for post in site.related_posts limit: 2 %}
+      <a class="post-card" href="{{ post.url | relative_url }}">
+        <span class="post-card-meta">
+          {% if post.category %}<span class="chip">{{ post.category }}</span>{% endif %}
+          <time class="post-card-date">{{ post.date | date: "%Y.%m.%d" }}</time>
+        </span>
+        <h2 class="post-card-title">{{ post.title }}</h2>
+        <span class="post-card-more">続きを読む <span class="arrow">→</span></span>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
   <nav class="post-back"><a href="{{ '/' | relative_url }}">← 記事一覧へ戻る</a></nav>
-</article>
+</div>

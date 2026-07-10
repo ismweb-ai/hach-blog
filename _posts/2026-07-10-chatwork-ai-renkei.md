@@ -3,6 +3,7 @@ layout: post
 title: "ChatworkとAIの連携方法|botだけじゃない3つの活用パターン"
 description: "ChatworkとAIの連携は問い合わせbotだけではありません。チャットボット・API自作・常駐型AIスタッフの3パターンを比較し、チームの状況把握や定常業務の自動化まで踏み込む方法を解説します。"
 date: 2026-07-10
+category: 活用ガイド
 ---
 
 

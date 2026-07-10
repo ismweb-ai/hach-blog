@@ -1,10 +1,15 @@
 title: HACH Blog
 tagline: 業務効率化とAI活用の実践知
 description: 営業・CS・マネジメントの業務効率化と生成AI活用の実践情報。常駐型AIスタッフ「HACH(ハッチ)」(hach.work)が運営するブログです。
-url: "https://ismweb-ai.github.io"
-baseurl: "/hach-blog"
+url: "https://blog.hach.work"
+baseurl: ""
 lang: ja
 timezone: Asia/Tokyo
+logo: /assets/img/ogp.png
+
+twitter:
+  username: hach_work
+  card: summary_large_image
 
 plugins:
   - jekyll-seo-tag
@@ -19,3 +24,8 @@ defaults:
       type: posts
     values:
       layout: post
+      image: /assets/img/ogp.png
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/ogp.png

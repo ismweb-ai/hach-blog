@@ -1,19 +1,30 @@
 ---
 layout: default
 ---
-<section class="hero">
-  <p class="hero-eyebrow">HACH BLOG</p>
-  <h1 class="hero-title">業務効率化とAI活用の<span class="accent">実践知</span></h1>
-  <p class="hero-lead">{{ content }}</p>
-</section>
+<div class="wrap">
+  <section class="hero">
+    <div class="hero-inner">
+      <p class="hero-eyebrow">HACH Blog</p>
+      <h1 class="hero-title">業務効率化とAI活用の<span class="accent">実践知</span></h1>
+      <div class="hero-lead">{{ content }}</div>
+    </div>
+  </section>
 
-<section class="post-list">
-  {% for post in site.posts %}
-  <a class="post-card" href="{{ post.url | relative_url }}">
-    <time class="post-card-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y.%m.%d" }}</time>
-    <h2 class="post-card-title">{{ post.title }}</h2>
-    <p class="post-card-desc">{{ post.description | default: post.excerpt | strip_html | truncate: 90 }}</p>
-    <span class="post-card-more">読む →</span>
-  </a>
-  {% endfor %}
-</section>
+  <section class="post-list">
+    <p class="section-label">ARTICLES</p>
+    <div class="post-grid">
+      {% for post in site.posts %}
+      <a class="post-card{% if forloop.first %} featured{% endif %}" href="{{ post.url | relative_url }}">
+        <span class="post-card-meta">
+          {% if post.category %}<span class="chip">{{ post.category }}</span>{% endif %}
+          <time class="post-card-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y.%m.%d" }}</time>
+          <span class="post-card-time">約{{ post.content | strip_html | size | divided_by: 550 | at_least: 2 }}分</span>
+        </span>
+        <h2 class="post-card-title">{{ post.title }}</h2>
+        <p class="post-card-desc">{{ post.description | default: post.excerpt | strip_html | truncate: 110 }}</p>
+        <span class="post-card-more">続きを読む <span class="arrow">→</span></span>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+</div>

@@ -6,36 +6,50 @@
   {% seo %}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Shippori+Mincho+B1:ital,wght@0,700;1,700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🐝</text></svg>">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cpath d='M32 4l24 14v28L32 60 8 46V18L32 4z' fill='%231e2a44'/%3E%3Cpath d='M32 14l15 9v18l-15 9-15-9V23l15-9z' fill='%23f2b705'/%3E%3C/svg%3E">
 </head>
 <body>
+  <div class="progress" aria-hidden="true"></div>
+
   <header class="site-header">
     <div class="wrap header-inner">
-      <a class="brand" href="{{ '/' | relative_url }}">
-        <span class="brand-mark">HACH</span><span class="brand-sub">Blog</span>
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="HACH Blog トップへ">
+        <svg class="brand-hex" viewBox="0 0 64 64" aria-hidden="true">
+          <path d="M32 4l24 14v28L32 60 8 46V18L32 4z" fill="#1e2a44"/>
+          <path d="M32 14l15 9v18l-15 9-15-9V23l15-9z" fill="#f2b705"/>
+          <path d="M32 24l7 4v8l-7 4-7-4v-8l7-4z" fill="#1e2a44"/>
+        </svg>
+        <span class="brand-text"><span class="brand-mark">HACH</span><span class="brand-sub">Blog</span></span>
       </a>
-      <nav class="site-nav">
-        <a href="{{ '/about/' | relative_url }}">このブログについて</a>
-        <a class="btn btn-cta" href="https://hach.work/?utm_source=blog&utm_medium=header&utm_campaign=hach-promo">無料相談</a>
+      <nav class="site-nav" aria-label="サイト内">
+        <a class="nav-link" href="{{ '/about/' | relative_url }}">このブログについて</a>
+        <a class="nav-link" href="https://hach.work/?utm_source=blog&utm_medium=header&utm_campaign=hach-promo">HACHとは</a>
+        <a class="btn btn-cta" href="https://hach.work/?utm_source=blog&utm_medium=header&utm_campaign=hach-promo">無料相談 <span class="arrow">→</span></a>
       </nav>
     </div>
   </header>
 
-  <main class="wrap">
+  <main>
     {{ content }}
   </main>
 
   <footer class="site-footer">
-    <div class="wrap footer-inner">
-      <div class="footer-cta">
-        <p class="footer-cta-title">チャットに招待するだけ。<br class="sp">365日働く常駐型AIスタッフ</p>
-        <p class="footer-cta-text">HACH(ハッチ)は、Slack・Teams・Chatworkに招待するだけで、夜間にチームの情報を整理し、毎朝レポートをお届けします。</p>
-        <a class="btn btn-cta btn-lg" href="https://hach.work/?utm_source=blog&utm_medium=footer&utm_campaign=hach-promo">無料相談で見積もりを依頼する</a>
-      </div>
-      <p class="copyright">© {{ site.time | date: "%Y" }} ISM Inc. — <a href="https://hach.work/?utm_source=blog&utm_medium=footer&utm_campaign=hach-promo">hach.work</a></p>
+    <div class="footer-inner">
+      <p class="footer-eyebrow">WHILE YOU SLEEP</p>
+      <p class="footer-cta-title">チャットに招待するだけ。<br class="sp">365日働く常駐型AIスタッフ</p>
+      <p class="footer-cta-text">HACH(ハッチ)は、Slack・Teams・Chatwork に招待するだけで、夜間にチームの情報を整理し、毎朝レポートをお届けします。御社の判断基準を学びながら、使うほど会社らしく育ちます。</p>
+      <a class="btn btn-cta btn-lg" href="https://hach.work/?utm_source=blog&utm_medium=footer&utm_campaign=hach-promo">無料相談で見積もりを依頼する <span class="arrow">→</span></a>
+      <nav class="footer-links" aria-label="フッター">
+        <a href="{{ '/' | relative_url }}">記事一覧</a>
+        <a href="{{ '/about/' | relative_url }}">このブログについて</a>
+        <a href="https://hach.work/?utm_source=blog&utm_medium=footer&utm_campaign=hach-promo">hach.work</a>
+      </nav>
+      <p class="copyright">© {{ site.time | date: "%Y" }} ISM Inc.</p>
     </div>
   </footer>
+
+  <script src="{{ '/assets/js/main.js' | relative_url }}" defer></script>
 </body>
 </html>
