@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🐝</text></svg>">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="{{ '/' | relative_url }}">
+        <span class="brand-mark">HACH</span><span class="brand-sub">Blog</span>
+      </a>
+      <nav class="site-nav">
+        <a href="{{ '/about/' | relative_url }}">このブログについて</a>
+        <a class="btn btn-cta" href="https://hach.work/?utm_source=blog&utm_medium=header&utm_campaign=hach-promo">無料相談</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <div class="footer-cta">
+        <p class="footer-cta-title">チャットに招待するだけ。<br class="sp">365日働く常駐型AIスタッフ</p>
+        <p class="footer-cta-text">HACH(ハッチ)は、Slack・Teams・Chatworkに招待するだけで、夜間にチームの情報を整理し、毎朝レポートをお届けします。</p>
+        <a class="btn btn-cta btn-lg" href="https://hach.work/?utm_source=blog&utm_medium=footer&utm_campaign=hach-promo">無料相談で見積もりを依頼する</a>
+      </div>
+      <p class="copyright">© {{ site.time | date: "%Y" }} ISM Inc. — <a href="https://hach.work/?utm_source=blog&utm_medium=footer&utm_campaign=hach-promo">hach.work</a></p>
+    </div>
+  </footer>
+</body>
+</html>
