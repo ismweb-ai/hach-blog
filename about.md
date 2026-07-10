@@ -17,4 +17,4 @@ HACHは、Slack・Teams・Chatwork に招待するだけで導入できる、365
 
 料金は個別見積り(ライト / スタンダード / エンタープライズ)。
 
-[→ 無料相談で見積もりを依頼する](https://hach.work/?utm_source=blog&utm_medium=about&utm_campaign=hach-promo)
+[→ 無料相談で見積もりを依頼する](https://hach.work/contact.html?type=consult&utm_source=blog&utm_medium=about&utm_campaign=hach-promo)
