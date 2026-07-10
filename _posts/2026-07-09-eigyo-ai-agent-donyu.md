@@ -61,4 +61,4 @@ category: 営業DX
 - 導入は「把握業務の特定 → 1チームでスモールスタート → 朝の判断への埋め込み」の3ステップ
 
 > HACH(ハッチ)は、Slack / Teams / Chatwork に招待するだけで使える常駐型AIスタッフです。商談レビューやタスク管理を支援し、御社の判断基準に合わせて成長します。まずは無料相談で、自社の「把握業務」がどこまで任せられるかご確認ください。
-> [無料相談で見積もりを依頼する](https://hach.work/?utm_source=blog&utm_medium=article&utm_campaign=hach-promo)
+> [無料相談で見積もりを依頼する](https://hach.work/contact.html?type=consult&utm_source=blog&utm_medium=article&utm_campaign=hach-promo)

@@ -63,4 +63,4 @@ category: セキュリティ
 - 全社導入ではなく1チームのスモールスタートで計画すると、承認のハードルが大きく下がる
 
 > HACH(ハッチ)は、Slack / Teams / Chatwork に招待するだけで使える常駐型AIスタッフです。機密情報の自動マスキング、AWS内で完結するデータ管理など、稟議で聞かれる論点に仕組みで答えられる設計になっています。セキュリティ要件の確認も含め、まずは無料相談をご利用ください。
-> [無料相談で見積もりを依頼する](https://hach.work/?utm_source=blog&utm_medium=article&utm_campaign=hach-promo)
+> [無料相談で見積もりを依頼する](https://hach.work/contact.html?type=consult&utm_source=blog&utm_medium=article&utm_campaign=hach-promo)

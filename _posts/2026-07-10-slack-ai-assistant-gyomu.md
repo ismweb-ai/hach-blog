@@ -70,4 +70,4 @@ Slack APIと生成AIのAPIを組み合わせれば、自社専用のAI botを開
 - どれを選んでも、データの扱い・定着の設計・スモールスタートの3点は事前に確認する
 
 > HACH(ハッチ)は、Slack / Teams / Chatwork に招待するだけで使える常駐型AIスタッフです。夜間に情報を整理し、毎朝レポートをお届け。御社の判断基準に合わせて成長します。
-> [無料相談で見積もりを依頼する](https://hach.work/?utm_source=blog&utm_medium=article&utm_campaign=hach-promo)
+> [無料相談で見積もりを依頼する](https://hach.work/contact.html?type=consult&utm_source=blog&utm_medium=article&utm_campaign=hach-promo)

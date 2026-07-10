@@ -56,4 +56,4 @@ Chatworkを主力チャットにしている組織にとって見逃せないの
 - Chatwork対応の常駐型AIは希少。Chatworkが主力の組織は選択肢を早めに確認する価値がある
 
 > HACH(ハッチ)は、Chatwork / Slack / Teams に招待するだけで使える常駐型AIスタッフです。365日24時間、チームの情報を自動で整理し、毎朝レポートをお届けします。
-> [無料相談で見積もりを依頼する](https://hach.work/?utm_source=blog&utm_medium=article&utm_campaign=hach-promo)
+> [無料相談で見積もりを依頼する](https://hach.work/contact.html?type=consult&utm_source=blog&utm_medium=article&utm_campaign=hach-promo)
