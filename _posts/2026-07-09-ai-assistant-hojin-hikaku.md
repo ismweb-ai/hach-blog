@@ -56,5 +56,5 @@ Microsoft 365 CopilotやNotion AIのように、既存のオフィスツール�
 
 チームの情報把握に時間を取られている組織には、常駐エージェント型が最も投資対効果の高い選択肢になり得ます。
 
-> HACH(ハッチ)は、Slack / Teams / Chatwork に招待するだけで使える常駐型AIスタッフです。365日24時間、チームの情報を自動で整理し、毎朝レポートをお届けします。料金は個別見積り(3プラン)で、まずは無料相談から始められます。
+> HACH(ハッチ)は、Slack / Teams / Chatwork に招待するだけで使える常駐型AIスタッフです。365日24時間、チームの情報を自動で整理し、毎朝レポートをお届けします。料金は3プラン(月額・税別)で、まずは無料相談から始められます。
 > [無料相談で見積もりを依頼する](https://hach.work/contact.html?type=consult&utm_source=blog&utm_medium=article&utm_campaign=hach-promo)

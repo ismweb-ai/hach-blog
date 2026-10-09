@@ -15,6 +15,6 @@ HACHは、Slack・Teams・Chatwork に招待するだけで導入できる、365
 - 御社の判断基準に合わせて成長
 - 機密情報の自動マスキング、データはAWS内で完結
 
-料金は個別見積り(ライト / スタンダード / エンタープライズ)。
+料金は3プラン(月額・税別・スタータープラン / ビジネスプラン / エンタープライズプラン)。
 
 [→ 無料相談で見積もりを依頼する](https://hach.work/contact.html?type=consult&utm_source=blog&utm_medium=about&utm_campaign=hach-promo)
