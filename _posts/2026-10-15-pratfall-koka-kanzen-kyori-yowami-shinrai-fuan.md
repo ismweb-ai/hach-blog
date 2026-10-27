@@ -56,5 +56,7 @@ HACHは、Slack / Microsoft Teams / Chatwork / LINE WORKS に招待するだけ�
 - 見せる失敗は小さなものに限り、実力を示した後に、頻度を上げすぎずに使うのがポイント
 - 個人の振る舞いに頼るだけでなく、HACHのように仕組みで情報が自動的に上がってくる状態をつくることも有効な補完策
 
+なお、人の評価が「完璧な結果を出したか」ではなく振る舞いの文脈で決まりやすいという点は、[結果バイアス](/2026/10/kekka-bias-outcome-bias-kekkaron-process-hyouka-fuan/)の記事とも通じる。結果という分かりやすい指標だけで評価を済ませてしまうと、プラットフォール効果のような文脈依存の評価も見落とされがちになる。
+
 > HACHは、Slack / Teams / Chatwork に招待するだけで使える常駐型AIスタッフです。
 > [無料相談で見積もりを依頼する](https://hach.work/contact.html?type=consult&utm_source=blog&utm_medium=article&utm_campaign=hach-promo)

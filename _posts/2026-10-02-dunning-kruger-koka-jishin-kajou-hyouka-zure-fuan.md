@@ -56,5 +56,7 @@ HACHは、Slack / Microsoft Teams / Chatwork / LINE WORKS に招待するだけ�
 - 営業現場では、自信過剰な判断が強く通る一方、実力のある担当者の知見が埋もれるという2つの問題が同時に起きやすい
 - 自己評価に頼らず、日々のやり取りという客観的な記録に立ち返る仕組みが対策の土台になる
 
+なお、自己評価の歪みという点では、過去の善行が「自分は善い人間だ」という免罪符になり、その後の判断の緩みを許してしまう[モラルライセンシング](/2026/10/moral-licensing-douttoku-teki-menzaifu-ichido-yoi-koto-tenuki-fuan/)も関連が深い。ダニング・クルーガー効果が能力そのものを過大評価する歪みであるのに対し、モラルライセンシングは道徳的な立場を過大評価し、それを別の判断の免罪符に使う点が異なる。
+
 > HACHは、Slack / Teams / Chatwork に招待するだけで使える常駐型AIスタッフです。
 > [無料相談で見積もりを依頼する](https://hach.work/contact.html?type=consult&utm_source=blog&utm_medium=article&utm_campaign=hach-promo)
