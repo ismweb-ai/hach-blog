@@ -60,7 +60,7 @@ HACHは、Slack / Microsoft Teams / Chatwork / LINE WORKS に招待するだけ�
 
 「自分だから出来ている」と感じた瞬間こそ、一度外を見てみる価値がある。
 
-似た構造を持つ歪みとして、[自分の意見を「みんなも同じはず」と過大評価してしまう偽の合意効果](/2026/10/false-consensus-koka-jibun-no-iken-ippanteki-omoikomi-fuan/)は正反対の方向に働く対であり、[自分の成功要因を実力だと過大評価してしまうコントロール幻想](/2026/10/control-genso-uriage-mokuhyou-gaiteki-youin-fuan/)や、[自分の持つ知識や文脈を他者も当然共有していると思い込んでしまう知識の呪い](/2026/10/chishiki-no-noroi-curse-of-knowledge-hikitsugi-zokujinka-fuan/)も、自分を基準にした見積もりが外部の実態とずれるという点で共通している。
+似た構造を持つ歪みとして、[自分の意見を「みんなも同じはず」と過大評価してしまう偽の合意効果](/2026/10/false-consensus-koka-jibun-no-iken-ippanteki-omoikomi-fuan/)は正反対の方向に働く対であり、[自分の成功要因を実力だと過大評価してしまうコントロール幻想](/2026/10/control-genso-uriage-mokuhyou-gaiteki-youin-fuan/)や、[自分の持つ知識や文脈を他者も当然共有していると思い込んでしまう知識の呪い](/2026/10/chishiki-no-noroi-curse-of-knowledge-hikitsugi-zokujinka-fuan/)も、自分を基準にした見積もりが外部の実態とずれるという点で共通している。共同作業の貢献度という具体的な対象に同じ構造が表れたものが[自己中心性バイアス](/2026/11/jiko-chushinsei-bias-egocentric-bias-kouken-do-jiko-shinkoku-zure-fuan/)で、「自分についての情報の方が手に入りやすい」という非対称性が、やり方の独自性の思い込みと貢献度の過大申告という異なる対象に別々に表れている点が共通している。
 
 > HACHは、Slack / Teams / Chatwork に招待するだけで使える常駐型AIスタッフです。
 > [無料相談で見積もりを依頼する](https://hach.work/contact.html?type=consult&utm_source=blog&utm_medium=article&utm_campaign=hach-promo)
