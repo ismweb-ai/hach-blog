@@ -58,5 +58,7 @@ HACHは、Slack / Microsoft Teams / Chatwork / LINE WORKS に招待するだけ�
 
 なお、自己評価の歪みという点では、過去の善行が「自分は善い人間だ」という免罪符になり、その後の判断の緩みを許してしまう[モラルライセンシング](/2026/10/moral-licensing-douttoku-teki-menzaifu-ichido-yoi-koto-tenuki-fuan/)も関連が深い。ダニング・クルーガー効果が能力そのものを過大評価する歪みであるのに対し、モラルライセンシングは道徳的な立場を過大評価し、それを別の判断の免罪符に使う点が異なる。
 
+自信過剰のまま昇進させてしまうと、その後の問題は本人の自己評価だけでは終わらない。[ピーターの法則](/2026/11/peter-no-housoku-peter-principle-shoushin-munou-koukaku-nashi-fuan/)が指摘するように、現場の実務評価だけで昇進を決める制度では、管理職に必要な能力が伴っていないまま地位が固定されやすく、ダニング・クルーガー効果による自信過剰がその判断ミスをさらに見えにくくする。
+
 > HACHは、Slack / Teams / Chatwork に招待するだけで使える常駐型AIスタッフです。
 > [無料相談で見積もりを依頼する](https://hach.work/contact.html?type=consult&utm_source=blog&utm_medium=article&utm_campaign=hach-promo)
