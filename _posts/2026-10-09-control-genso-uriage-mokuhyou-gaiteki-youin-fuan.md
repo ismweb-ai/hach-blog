@@ -56,5 +56,7 @@ HACHは、Slack / Microsoft Teams / Chatwork / LINE WORKS に招待するだけ�
 
 本来自分の判断力そのものを過大評価してしまう[ダニング・クルーガー効果](/2026/10/dunning-kruger-koka-jishin-kajou-hyouka-zure-fuan/)とは異なり、コントロール幻想は「結果に対する自分の影響力」を見誤る点に特徴がある。また、[損失回避バイアスによって撤退や契約見直しの判断が鈍る](/2026/10/sonshitsu-kaihi-tettai-keiyaku-minaoshi-handan-nibui-fuan/)現象とも、[直近の印象に判断が引っ張られる利用可能性ヒューリスティック](/2026/10/riyoukanousei-heuristic-kioku-insho-hindo-sakkaku-fuan/)とも機序が異なるが、いずれも「判断の前提を点検する仕組み」が対策の核心になる点で共通している。
 
+不確実性への反応という軸で見ると、[成功率が「分からない」案件そのものを避けてしまうアンビギュイティ回避](/2026/11/ambiguity-aversion-ellsberg-paradox-kakuritsu-fumei-handan-sakeru-fuan/)も隣接するバイアスだ。コントロール幻想は不確実な結果を「自分の努力で変えられる」と過大評価する方向の歪みであるのに対し、アンビギュイティ回避は不確実性そのものを避けて機会を失う方向の歪みという違いがある。
+
 > HACHは、Slack / Teams / Chatwork に招待するだけで使える常駐型AIスタッフです。
 > [無料相談で見積もりを依頼する](https://hach.work/contact.html?type=consult&utm_source=blog&utm_medium=article&utm_campaign=hach-promo)

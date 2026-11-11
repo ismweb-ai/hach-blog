@@ -52,3 +52,5 @@ HACHは、Slack / Teams / Chatwork / LINE WORKSに招待するだけで使える
 > [無料相談で見積もりを依頼する](https://hach.work/contact.html?type=consult&utm_source=blog&utm_medium=article&utm_campaign=hach-promo)
 
 さらに関連する内容として、[クレーム内容が共有されず再発する問題](/2026/07/claim-kyoyu-sarenai-saihatsu-boushi/)や、[生成AIの利用規約変更に気づけない不安](/2026/09/seisei-ai-riyoukiyaku-henkou-kizukenai-fuan/)もあわせてご覧ください。
+
+なお、正常性バイアスは「警告の深刻さを過小評価する」という歪みだが、これとは別に、二人の報告が食い違ったときに「とりあえず信じる」を選んでしまう[真実デフォルト理論](/2026/11/truth-default-riron-houkoku-kuichigai-dochira-shinjiru-fuan/)という機序もある。前者は異変そのものへの感度が鈍る話、後者は異変を伝える報告があっても鵜呑みにしてしまう話で、どちらも「情報は存在していたのに活かされなかった」という結果につながりやすい点が共通している。
