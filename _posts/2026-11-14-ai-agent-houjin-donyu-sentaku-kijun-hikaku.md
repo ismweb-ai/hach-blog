@@ -82,5 +82,7 @@ HACH(ハッチ)は、Slack・Microsoft Teams・Chatwork・LINE WORKSのいずれ
 - 自社の処理件数・利用人数を事前に数えてから料金を当てはめる
 - 比較表のテンプレートを用意し、埋まらない軸は契約前にベンダーへ直接確認する
 
+6軸で候補を絞った後は、[ベンダーへ確認すべき質問リスト](/2026/11/ai-agent-vendor-shitsumon-list-donyu-mae-kakunin/)で各項目を深掘りし、候補を1〜2社に絞ってから[小規模なPoC・トライアル](/2026/11/ai-agent-poc-torai-aru-susumekata-honkakuteki-donyu/)で実際の業務に当てはめて判断すると、本格導入後のギャップを減らせます。
+
 > HACHは、Slack / Teams / Chatwork に招待するだけで使える常駐型AIスタッフです。
 > [無料相談で見積もりを依頼する](https://hach.work/contact.html?type=consult&utm_source=blog&utm_medium=article&utm_campaign=hach-promo)
