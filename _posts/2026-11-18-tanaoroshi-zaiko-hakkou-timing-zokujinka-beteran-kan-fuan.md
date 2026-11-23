@@ -58,7 +58,7 @@ HACHは、Slack / Microsoft Teams / Chatwork / LINE WORKS に招待するだけ�
 - 棚卸中心の運用・経験頼みの発注・ツール導入だけでは解決しない業務フローが、属人化を定着させる構造的な原因になっている
 - 発注点のリスト化・例外処理のルール化・循環棚卸・代理対応の事前確認を、担当者が不在になる前から進めることが対策の基本になる
 
-在庫管理に関わる判断がSlackやTeamsでのやり取りの中に埋もれている場合は、[バスファクターの考え方](/2026/10/bus-factor-zokujinka-shindan-nannin-inakunattara-gyomu-ga-tomaru-fuan/)で紹介した「いなくなったら誰が困るか」の棚卸しと合わせて見直すのがおすすめです。また、担当者が悪意なく情報を抱え込んでしまう[ナレッジハイディング](/2026/11/knowledge-hiding-chishiki-no-inpei-jibun-shika-wakaranai-fuan/)の構造や、督促経緯のような個別判断の積み重ねが記録されずに属人化していく[売掛金の入金督促](/2026/09/urikakekin-nyukin-tokusoku-zokujinka-fuan/)の事例も、根っこにある課題はよく似ています。
+在庫管理に関わる判断がSlackやTeamsでのやり取りの中に埋もれている場合は、[バスファクターの考え方](/2026/10/bus-factor-zokujinka-shindan-nannin-inakunattara-gyomu-ga-tomaru-fuan/)で紹介した「いなくなったら誰が困るか」の棚卸しと合わせて見直すのがおすすめです。また、担当者が悪意なく情報を抱え込んでしまう[ナレッジハイディング](/2026/11/knowledge-hiding-chishiki-no-inpei-jibun-shika-wakaranai-fuan/)の構造や、督促経緯のような個別判断の積み重ねが記録されずに属人化していく[売掛金の入金督促](/2026/09/urikakekin-nyukin-tokusoku-zokujinka-fuan/)の事例も、根っこにある課題はよく似ています。判断の相談が集中する担当者ほど[質問が多すぎるベテランほど引き継ぎ資料が雑になる](/2026/11/ninchi-fuka-riron-wariidome-shitsumon-oosugiru-taishoku-fuan/)という悪循環に陥りやすい点も共通しています。
 
 > HACHは、Slack / Teams / Chatwork に招待するだけで使える常駐型AIスタッフです。
 > [無料相談で見積もりを依頼する](https://hach.work/contact.html?type=consult&utm_source=blog&utm_medium=article&utm_campaign=hach-promo)

@@ -44,7 +44,7 @@ HACHは、Slack / Microsoft Teams / Chatwork / LINE WORKS のチャットに招�
 
 BIダッシュボードが「構造化データの集計」を担うのに対し、HACHは「まだ構造化されていない日々の会話」から状況を拾う役割を担います。ダッシュボードの数字を見て「なぜ?」と思ったときに、改めて担当者に聞きに行く手間そのものを減らすことができます。既存のBIツールを置き換える必要はなく、今使っているチャットに招待するだけで並行して使い始められます。
 
-[複数案件を並行して抱えるPMの進捗がバラバラになりやすい](/2026/08/fukusu-anken-heikou-shinchoku-barabara-pm-zokujinka-ai/)という課題も、同じく「数字や一覧では見えない個別の経緯」が原因です。また[委託先の進捗が依頼元から見えなくなる情報の非対称性](/2026/11/joho-no-hitaishousei-principal-agent-mondai-itaku-shinchoku-mienai-fuan/)、[常駐エンジニアの稼働状況が客先から見えにくい構造](/2026/08/ses-jouchu-engineer-kadou-jokyo-mienai-ai/)も、根っこにあるのは「集計された数字と、現場の会話の中身との間にあるギャップ」です。
+[複数案件を並行して抱えるPMの進捗がバラバラになりやすい](/2026/08/fukusu-anken-heikou-shinchoku-barabara-pm-zokujinka-ai/)という課題も、同じく「数字や一覧では見えない個別の経緯」が原因です。また[委託先の進捗が依頼元から見えなくなる情報の非対称性](/2026/11/joho-no-hitaishousei-principal-agent-mondai-itaku-shinchoku-mienai-fuan/)、[常駐エンジニアの稼働状況が客先から見えにくい構造](/2026/08/ses-jouchu-engineer-kadou-jokyo-mienai-ai/)も、根っこにあるのは「集計された数字と、現場の会話の中身との間にあるギャップ」です。同じ構造は[タスク管理ツール(Asana/Trello)導入後も「なぜ止まっているか」が分からない問題](/2026/11/task-kanri-tool-asana-trello-joutai-wakaru-keii-wakaranai-fuan/)や、[社内Wikiを導入しても更新が止まり結局聞きに行く問題](/2026/11/shanai-wiki-koushin-sarenai-keigaika-fuan/)にも共通して見られ、いずれも「ツールに記録されていない会話の中身」が本質的な課題です。
 
 機密情報は推論時に自動マスキングされ、データはAWS内で完結するため、社外に出せない会話内容を扱う場合でも安心して使えます。
 
